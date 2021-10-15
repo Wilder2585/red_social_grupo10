@@ -1,0 +1,18 @@
+{
+    "empleados": [
+        {
+            "nombre": "mario",
+            "apellido": "alario",
+            "publicacion": "agregar",
+            "megusta": "14",
+            "comentarios": "12"
+        },
+        {
+            "nombre": "fabian",
+            "apellido": "Sanchez",
+            "publicacion": "agregar",
+            "megusta": "14",
+            "comentarios": "12"
+        }
+    ]
+}
